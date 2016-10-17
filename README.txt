@@ -1,1 +1,1 @@
-This is our senior project
+Our senior project repository.
