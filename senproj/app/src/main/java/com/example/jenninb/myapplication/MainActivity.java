@@ -2,6 +2,8 @@ package com.example.jenninb.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.*;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -10,5 +12,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    //protected void onClick(Switch x) {
+    //    View.OnClickListener(x);
+    //    View.OnClickListener
+    //}
 
 }

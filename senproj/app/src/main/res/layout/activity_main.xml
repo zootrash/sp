@@ -13,5 +13,15 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Place!" />
+        android:text="@string/hello_place" />
+
+    <Switch
+        android:text="Display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="35dp"
+        android:id="@+id/display_switch" />
 </RelativeLayout>
