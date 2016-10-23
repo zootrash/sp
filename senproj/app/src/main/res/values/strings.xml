@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Senior Project</string>
-    <string name="hello_place">Hello Shameem!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
 </resources>

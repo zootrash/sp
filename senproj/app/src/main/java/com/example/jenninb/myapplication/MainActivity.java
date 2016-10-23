@@ -13,9 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    //protected void onClick(Switch x) {
-    //    View.OnClickListener(x);
-    //    View.OnClickListener
-    //}
+    public void sendMessage(View view) {
+
+    }
 
 }
